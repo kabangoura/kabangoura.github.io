@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kabangoura.github.io/sitemap.xml
+Sitemap: https://kabangoura.github.io/detection-des-failles-de-securite/sitemap.xml
